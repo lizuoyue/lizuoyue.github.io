@@ -25,23 +25,24 @@ author: Zuoyue Li                       # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: lizuoyue                    # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: lizuoyue                    # change to your twitter username
 
 social:
   name: Zuoyue Li                       # it will shows as the copyright owner in Footer
   email: li.zuoyue@foxmail.com          # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username    # change to your twitter homepage
+    - https://twitter.com/lizuoyue      # change to your twitter homepage
     - https://github.com/lizuoyue       # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/lizuoyue
     - https://www.linkedin.com/in/lizuoyue
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: pi0KY5lj06Y7Us-AC27NWZE8n0ZXF5boPSimx_bwO1A
+# change to your verification string
 
 #--------------------------
 

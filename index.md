@@ -16,7 +16,7 @@
     <p>
       I am currently a research intern at <a target="_blank" href="https://research.google/locations/zurich">Google Zurich</a>
       with a topic on generative AI and digital humans. I was a research engineer intern at 
-      <a target="_blank" href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection, 
+      <a target="_blank" href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection and scene understanding, 
       and was an overseas researcher in the <a target="_blank" href="https://www.ut-vision.org/sato-lab">Computer Vision Group</a> at the 
       <a target="_blank" href="https://www.iis.u-tokyo.ac.jp/en">Institute of Industrial Science (IIS)</a>, 
       <a target="_blank" href="https://www.u-tokyo.ac.jp/en">The University of Tokyo</a> (東京大学), 
@@ -75,7 +75,7 @@
         <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      CVPR 2024 &nbsp;/&nbsp; 
+      CVPR 2024 (<strong>Highlight</strong>) &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
     </p>
     <p>
@@ -312,6 +312,8 @@
 
 <h1>Awards</h1>
 <p>
+Doctoral Consortium Participant, <a target="_blank" href="https://cvpr.thecvf.com/Conferences/2024/CallForDoctoralConsortium">CVPR 2024</a>
+<br>
 Outstanding Reviewer, <a target="_blank" href="https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers">CVPR 2023</a>
 <br>
 Outstanding Reviewer, <a target="_blank" href="https://eccv2022.ecva.net/program/outstanding-reviewers">ECCV 2022</a>
@@ -480,7 +482,7 @@ Universitätstrasse 6<br>
 Switzerland
 </p>
 
-<p align="right">Last update: 27 Feb 2024</p>
+<p align="right">Last update: 28 Apr 2024</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {

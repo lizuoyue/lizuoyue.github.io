@@ -76,7 +76,9 @@
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       CVPR 2024 (<strong>Highlight</strong>) &nbsp;/&nbsp; 
-      <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
+      <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://shinkyo0513.github.io/Sat2Scene">Project Page</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://github.com/lizuoyue/sat2scene">Code</a>
     </p>
     <p>
       Generalize diffusion models to 3D sparse space and perform urban scene generation on a given or predicted geometry, followed by neural rendering techniques to render arbitrary views with excellence in both single-frame quality and inter-frame consistency.
@@ -111,7 +113,8 @@
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       ECCV 2022 &nbsp;/&nbsp; 
-      <a target="_blank" href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610441.pdf">Paper</a>
+      <a target="_blank" href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610441.pdf">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://github.com/lizuoyue/compnvs">Code</a> 
     </p>
     <p>
       Synthesize novel views from RGB-D images with largely incomplete scene coverage. Perform generation on a sparse grid-based neural representation to complete unobserved scene parts. Extrapolate the missing area and render consistent photorealistic image sequences.
@@ -148,8 +151,8 @@
         <a target="_blank" href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
       <br>
       ACM Multimedia 2022 (<strong>Oral</strong>) &nbsp;/&nbsp; 
-      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> <!-- &nbsp;/&nbsp; 
-      <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a> -->
+      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a>
     </p>
     <p>
       Expand tourist photos from a narrow field of view to a wider one while maintaining a similar visual style. Propose factorized neural re-rendering model to produce photorealistic novel views from cluttered outdoor Internet photo collections, which enables applications such as controllable scene re-rendering, photo extrapolation, and 3D photo generation.
@@ -277,7 +280,8 @@
         <a target="_blank" href="https://u.osu.edu/qin.324">Rongjun Qin</a>. 
       <br>
       *Equal contribution. CVPR 2020 &nbsp;/&nbsp; 
-      <a target="_blank" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Geometry-Aware_Satellite-to-Ground_Image_Synthesis_for_Urban_Areas_CVPR_2020_paper.pdf">Paper</a>
+      <a target="_blank" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Geometry-Aware_Satellite-to-Ground_Image_Synthesis_for_Urban_Areas_CVPR_2020_paper.pdf">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://github.com/lizuoyue/sate_to_ground">Code</a>
     </p>
     <p>
       Generate panoramic street-view images that are geometrically consistent with a given satellite image via a GAN-based network with the proposed geo-transformation layer that retains the physical satellite-to-ground relation. The synthesized images retain well-articulated and authentic geometric shapes, as well as the texture richness of the street view in various scenarios.
@@ -298,7 +302,8 @@
         <a target="_blank" href="https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi">Aurelien Lucchi</a>. 
       <br>
       ICCV 2019 &nbsp;/&nbsp; 
-      <a target="_blank" href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.pdf">Paper</a>
+      <a target="_blank" href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.pdf">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://github.com/lizuoyue/ETH-Thesis">Code</a>
       <br>
     </p>
     <p>
